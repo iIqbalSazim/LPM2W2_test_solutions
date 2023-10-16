@@ -23,7 +23,7 @@ def find_missing_number(nums)
     end
 end
 
-input1 = [3,0,1]
+input1 =[5,3,0,1,4,2,-1,-2,-4, -3, -6]
 input2 = [9, 6, 4, 2, 3, 5, 7, 0, 1]
 
-find_missing_number(input2)
+find_missing_number(input1)
